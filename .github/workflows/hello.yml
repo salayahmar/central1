@@ -8,8 +8,6 @@ on:
   
 # These are jobs inside the workflow
 jobs:
-
-# This is the name of the job
  greet:
  # This is github runner
    runs-on: ubuntu-latest
