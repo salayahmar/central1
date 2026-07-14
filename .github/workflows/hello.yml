@@ -8,10 +8,10 @@ on:
   
 # These are jobs inside the workflow
 jobs:
- greet:
+  greet:
  # This is github runner
    runs-on: ubuntu-latest
-  steps:
+   steps:
     - name: say hello to users
       run: echo "Hello Doston"
 
