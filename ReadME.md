@@ -1,3 +1,3 @@
 # Github Actions
 # Workflows
- - [Hello] (.github/workflows/cicd.yml)
+ - [Hello] (.github/workflows/hello.yml)
