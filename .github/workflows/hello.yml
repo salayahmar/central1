@@ -1,12 +1,12 @@
-# This is workflow name
+---
 name: Hello
-
-# runs on a trigger
 on: 
-  push:
-    branches: [master]
-   paths:
-    - '**.html'
+ push:
+  branches:
+  - master
+  paths:
+  - "**.html"
+
 # These are jobs inside the workflow
 jobs:
   greet:
