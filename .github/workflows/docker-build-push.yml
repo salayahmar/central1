@@ -3,9 +3,9 @@ name: Docker Build & Push
 on:
      push:
         branches: [Master]  
-
-    jobs:
-        build-and-push:
+         
+jobs:
+          build-and-push:
             runs-on: ubuntu-latest
 
             steps:
