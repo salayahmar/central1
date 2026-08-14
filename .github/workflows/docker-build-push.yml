@@ -1,4 +1,4 @@
-name: Docker Build & Push workflow
+name: Docker Build & Push workflows
 
 on:
      push:
